@@ -1,6 +1,6 @@
 # ModeStreet front-end challenge
 
-Challenge is to build a Commenting System.
+Challenge is to build a Commenting System with nested comment/replay upto nth level and delete comment/reply. Backend is not required. 
 
 ## Got questions?
 
